@@ -9,7 +9,7 @@
 - 🗄️ Strong knowledge of **SQL & databases**
 - 🐍 Python for **data manipulation & automation**
 - ⚙️ Experience with **C++ fundamentals**
-- 🐧 Linux user (Arch Linux & Kali Linux)
+- 🐧 Linux user (Arch Linux & Black Arch)
 - 🛡️ Studying **Cybersecurity & Pentesting**
 - 🌎 Goal: **International career / work abroad**
 
