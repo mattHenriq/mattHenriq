@@ -40,7 +40,7 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Archlinux-logo-dark-1200dpi.b42bd35d5916.svg" width="48" height="48"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="48" height="48"/>
       <br>Arch
     </td>
     <td align="center" width="96">
