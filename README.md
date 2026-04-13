@@ -1,94 +1,45 @@
-<h1 align="left">Hi, I'm Matheus</h1>
-<h3 align="left">Backend Engineer • Business-Critical Systems • Integrations</h3>
+<h1 align="left">Matheus</h1> <h3 align="left">Software Engineer • Backend • Systems & Integrations • Founder @ Synapse IT</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB" alt="profile views" /> </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB" alt="profile views" />
-</p>
+I’m a Software Engineer with 4+ years of experience, working on business-critical systems, integrations, and high-impact applications.
 
-I have **4+ years of experience in IT**, working directly with **business-critical applications** that support multiple corporate areas (finance, fiscal, operations, reporting).
+My work is focused on building and maintaining systems where performance, correctness, and reliability are not optional — especially in fiscal, financial, and enterprise environments.
 
-My background is strongly focused on **backend development, system integration, and business rules**, especially in **high-impact and regulated environments**.
+I have contributed to large-scale technical implementations related to the Brazilian tax reform, working with Java-based systems, XML processing, and complex fiscal rules, in scenarios where compliance and precision are mandatory.
 
-I have actively participated in **major technical initiatives related to the Brazilian tax reform**, contributing with **Java-based systems, XML processing, and fiscal logic**, in contexts where **accuracy, performance, and compliance are mandatory**.
+Today, I also operate as Co-Founder of Synapse IT, building modern web solutions, automations, and AI-driven systems focused on real business outcomes.
 
-<br>
+<h2 align="left">🧠 What I Do</h2>
+Backend engineering for real-world production systems
+Design and implementation of complex business rules
+Development of high-reliability integrations (XML, APIs, external systems)
+Automation and data processing using Python
+Building systems that are traceable, auditable and scalable
+<h2 align="left">🚀 Core Stack</h2> <table> <tr> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/> <br>Java </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/> <br>Python </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48"/> <br>SQL </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"/> <br>Linux </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/> <br>Git </td> </tr> </table>
+<h2 align="left">🏗️ Real Work Experience</h2>
+Development of Java-based enterprise systems with heavy XML integrations
+Handling of critical fiscal data flows and validations
+Direct interaction with business, fiscal and infrastructure teams
+Support and evolution of systems that operate in real production environments
+Working with systems where failures have real business impact
+<h2 align="left">⚙️ Engineering Mindset</h2>
+Code must be correct before clever
+Systems must be reliable before scalable
+Clarity > complexity
+Strong focus on maintainability and traceability
+Always building with real-world constraints in mind
+<h2 align="left">🐍 Python & Automation</h2>
+Development of automation pipelines for data processing and business workflows
+Creation of tools focused on efficiency and reliability
+Integration scripts connecting systems, APIs and databases
+<h2 align="left">🛡️ Security Awareness</h2>
 
-<h2 align="left">🧠 Professional Focus</h2>
+Security is part of how I build systems:
 
-- Backend development for **enterprise applications**
-- Complex **business rules & data processing**
-- System integrations using **Java & XML**
-- Strong interaction with **business, fiscal and technical teams**
-- Writing code that supports **real production workflows**
-
-<br>
-
-<h2 align="left">🚀 Core Tech Stack</h2>
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"/>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="48" height="48"/>
-      <br>Arch Linux
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="left">🏗️ What I Actually Work With</h2>
-
-- Java backend systems with **XML-heavy integrations**
-- Data persistence and querying with **SQL**
-- Python projects for **data processing, automation and analysis**
-- Linux environments used **daily in real workflows**
-- Code that must be **correct, traceable and auditable**
-
-<br>
-
-<h2 align="left">🐍 Python Projects</h2>
-
-- Development of **end-to-end Python solutions** for business needs  
-- Data manipulation, validation and transformation  
-- Automation focused on **productivity and reliability**
-
-(Projects available in repositories below.)
-
-<br>
-
-<h2 align="left">🛡️ Additional Knowledge</h2>
-
-Cybersecurity is **not my main area**, but part of my technical background:
-
-- Pentesting fundamentals
-- Familiarity with tools like Nmap, Burp Suite, Nikto
-- Strong understanding of **how backend systems fail and how to harden them**
-
-<br>
-
-<h2 align="left">📌 Career Direction</h2>
-
-- Backend engineering in **complex, real-world systems**
-- High-responsibility environments
-- International opportunities
-- Continuous improvement in **clean code, performance and system design**
+Understanding of backend vulnerabilities and attack surfaces
+Familiarity with tools such as Nmap, Burp Suite, Nikto
+Focus on building systems that are resilient and hardened by design
+<h2 align="left">🚀 Current Focus</h2>
+Building Synapse IT — web, automation and AI solutions for real businesses
+Advancing in system design and architecture
+Working towards high-level backend engineering roles
+Preparing for international opportunities
