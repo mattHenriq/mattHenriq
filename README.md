@@ -1,45 +1,84 @@
-<h1 align="left">Matheus</h1> <h3 align="left">Software Engineer • Backend • Systems & Integrations • Founder @ Synapse IT</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB" alt="profile views" /> </p>
+# Matheus Henrique
 
-I’m a Software Engineer with 4+ years of experience, working on business-critical systems, integrations, and high-impact applications.
+**Backend Software Engineer** — enterprise systems, fiscal integrations, mission-critical infrastructure.
 
-My work is focused on building and maintaining systems where performance, correctness, and reliability are not optional — especially in fiscal, financial, and enterprise environments.
+São Paulo, Brazil · [Portfolio](https://matheusmaciel.dev) · [LinkedIn](https://www.linkedin.com/in/matheus-henrique-0310761ba/)
 
-I have contributed to large-scale technical implementations related to the Brazilian tax reform, working with Java-based systems, XML processing, and complex fiscal rules, in scenarios where compliance and precision are mandatory.
+---
 
-Today, I also operate as Co-Founder of Synapse IT, building modern web solutions, automations, and AI-driven systems focused on real business outcomes.
+## About
 
-<h2 align="left">🧠 What I Do</h2>
-Backend engineering for real-world production systems
-Design and implementation of complex business rules
-Development of high-reliability integrations (XML, APIs, external systems)
-Automation and data processing using Python
-Building systems that are traceable, auditable and scalable
-<h2 align="left">🚀 Core Stack</h2> <table> <tr> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/> <br>Java </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/> <br>Python </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48"/> <br>SQL </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"/> <br>Linux </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/> <br>Git </td> </tr> </table>
-<h2 align="left">🏗️ Real Work Experience</h2>
-Development of Java-based enterprise systems with heavy XML integrations
-Handling of critical fiscal data flows and validations
-Direct interaction with business, fiscal and infrastructure teams
-Support and evolution of systems that operate in real production environments
-Working with systems where failures have real business impact
-<h2 align="left">⚙️ Engineering Mindset</h2>
-Code must be correct before clever
-Systems must be reliable before scalable
-Clarity > complexity
-Strong focus on maintainability and traceability
-Always building with real-world constraints in mind
-<h2 align="left">🐍 Python & Automation</h2>
-Development of automation pipelines for data processing and business workflows
-Creation of tools focused on efficiency and reliability
-Integration scripts connecting systems, APIs and databases
-<h2 align="left">🛡️ Security Awareness</h2>
+I build backend systems for environments where correctness is non-negotiable.
 
-Security is part of how I build systems:
+4+ years working inside enterprise infrastructure: Java-based fiscal pipelines, SAP integrations, Oracle databases, and tax compliance systems processing thousands of electronic invoices per day. My work runs in the background of large organizations — rarely visible, always critical.
 
-Understanding of backend vulnerabilities and attack surfaces
-Familiarity with tools such as Nmap, Burp Suite, Nikto
-Focus on building systems that are resilient and hardened by design
-<h2 align="left">🚀 Current Focus</h2>
-Building Synapse IT — web, automation and AI solutions for real businesses
-Advancing in system design and architecture
-Working towards high-level backend engineering roles
-Preparing for international opportunities
+Co-founder of **Synapse IT**, where I build modern web applications, automation tooling, and AI-driven solutions for real business outcomes.
+
+---
+
+## What I Work On
+
+**Enterprise Backend**
+Java services for high-volume document processing, business rule engines, and data validation pipelines in regulated environments. Experience with Brazil's tax reform (IBS, CBS, IS), NF-e/SEFAZ communication, and MasterSAF API integration.
+
+**System Integrations**
+Bidirectional data flows between SAP, Oracle, and external systems. Schema mapping, conflict resolution, audit trails, and reconciliation workflows for financial and fiscal data.
+
+**Automation & Data**
+Python pipelines for ETL, compliance checks, and operational automation. Oracle DB optimization, PL/SQL packages, and Power BI reporting for production environments.
+
+**Modern Web & SaaS**
+Full-stack applications using Next.js, TypeScript, and TailwindCSS. REST APIs, Supabase, server-side rendering, and premium frontend interfaces for business-facing products.
+
+---
+
+## Stack
+
+| Area | Technologies |
+|---|---|
+| **Backend** | Java 11, Spring Boot, Python, Node.js, TypeScript |
+| **Database** | Oracle DB, PL/SQL, SQL, PostgreSQL |
+| **Integration** | SAP RFC, MasterSAF API, NF-e / SEFAZ, REST APIs, XML/DOM |
+| **Frontend** | Next.js, React, TailwindCSS, Framer Motion |
+| **Tools** | Git, Docker, IntelliJ, VS Code, Power BI |
+
+---
+
+## Selected Work
+
+**Internal XML Integration Tool for Fiscal API Workflows**
+Java application that replaced Burp Suite/Postman for fiscal document correction. Parses raw action payloads, renders them as a structured XML editor, and dispatches corrected documents to the MasterSAF API via authenticated POST.
+`Java` `Spring Boot` `XML/DOM` `REST API` `MasterSAF`
+
+**Brazil Tax Reform Compliance: Backend Implementation**
+Java backend logic for IBS, CBS, and IS compliance under Brazil's 2024 tax reform. Processes thousands of NF-e documents daily in a production environment with strict validation rules and Oracle DB pipelines.
+`Java` `Spring Boot` `Oracle DB` `PL/SQL` `NF-e`
+
+**SAP–Oracle Data Bridge**
+Bidirectional synchronization middleware keeping SAP ERP and Oracle systems consistent. Handles schema mismatches, conflict resolution, and financial data integrity for daily reconciliation and compliance reporting.
+`Java` `SAP RFC` `Oracle DB` `Python` `PL/SQL`
+
+---
+
+## Engineering Principles
+
+- Correctness first. A system that works incorrectly under edge cases is broken.
+- Understand the constraints before writing code.
+- Integration boundaries are where complexity lives. Design them carefully.
+- Reliability is a feature, not a bonus.
+- Clear over clever, always.
+
+---
+
+## Current Focus
+
+- Growing Synapse IT — web, automation, and AI solutions for real business problems
+- Advancing in system design and distributed architecture
+- Pursuing senior backend and enterprise integration roles
+- Open to remote opportunities with international teams
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mattHenriq&style=flat&color=6366f1&label=profile+views" alt="profile views" />
+</p>
