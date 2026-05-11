@@ -10,7 +10,7 @@ São Paulo, Brazil · [Portfolio](https://matheusmaciel.dev) · [LinkedIn](https
 
 I build backend systems for environments where correctness is non-negotiable.
 
-4+ years working inside enterprise infrastructure: Java-based fiscal pipelines, SAP integrations, Oracle databases, and tax compliance systems processing thousands of electronic invoices per day. My work runs in the background of large organizations — rarely visible, always critical.
+4+ years working inside enterprise infrastructure: Java-based fiscal pipelines, SAP integrations, Oracle databases, and tax compliance systems processing thousands of electronic invoices per day. My work runs in the background of large organizations, rarely visible, always critical.
 
 Co-founder of **Synapse IT**, where I build modern web applications, automation tooling, and AI-driven solutions for real business outcomes.
 
