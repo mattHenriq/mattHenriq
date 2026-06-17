@@ -6,9 +6,8 @@
 
 *Java · Spring Boot · Fiscal Integrations · Enterprise Systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattenglish2177@gmail.com)
-[![Synapse IT](https://img.shields.io/badge/Synapse_IT-6366f1?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/seu-perfil)
+[![Synapse IT](https://img.shields.io/badge/Synapse_IT-6366f1?style=for-the-badge&logo=lightning&logoColor=white)](https://www.synapseit.dev/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mattHenriq&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
 
