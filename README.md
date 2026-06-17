@@ -1,84 +1,145 @@
-# Matt
+<div align="center">
 
-**Backend Software Engineer** — enterprise systems, fiscal integrations, mission-critical infrastructure.
+# Matheus Henrique
 
-São Paulo, Brazil · 
+**Backend Software Engineer**
 
----
+*Java · Spring Boot · Fiscal Integrations · Enterprise Systems*
 
-## About
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattenglish2177@gmail.com)
+[![Synapse IT](https://img.shields.io/badge/Synapse_IT-6366f1?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/seu-perfil)
 
-I build backend systems for environments where correctness is non-negotiable.
+![Profile Views](https://komarev.com/ghpvc/?username=mattHenriq&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
 
-4+ years working inside enterprise infrastructure: Java-based fiscal pipelines, SAP integrations, Oracle databases, and tax compliance systems processing thousands of electronic invoices per day. My work runs in the background of large organizations, rarely visible, always critical.
-
-Co-founder of **Synapse IT**, where I build modern web applications, automation tooling, and AI-driven solutions for real business outcomes.
-
----
-
-## What I Work On
-
-**Enterprise Backend**
-Java services for high-volume document processing, business rule engines, and data validation pipelines in regulated environments. Experience with Brazil's tax reform (IBS, CBS, IS), NF-e/SEFAZ communication, and MasterSAF API integration.
-
-**System Integrations**
-Bidirectional data flows between SAP, Oracle, and external systems. Schema mapping, conflict resolution, audit trails, and reconciliation workflows for financial and fiscal data.
-
-**Automation & Data**
-Python pipelines for ETL, compliance checks, and operational automation. Oracle DB optimization, PL/SQL packages, and Power BI reporting for production environments.
-
-**Modern Web & SaaS**
-Full-stack applications using Next.js, TypeScript, and TailwindCSS. REST APIs, Supabase, server-side rendering, and premium frontend interfaces for business-facing products.
+</div>
 
 ---
 
-## Stack
+## 👨‍💻 About
 
-| Area | Technologies |
-|---|---|
-| **Backend** | Java 11, Spring Boot, Python, Node.js, TypeScript |
-| **Database** | Oracle DB, PL/SQL, SQL, PostgreSQL |
-| **Integration** | SAP RFC, MasterSAF API, NF-e / SEFAZ, REST APIs, XML/DOM |
-| **Frontend** | Next.js, React, TailwindCSS, Framer Motion |
-| **Tools** | Git, Docker, IntelliJ, VS Code, Power BI |
+Backend engineer with **3+ anos** de experiência em sistemas Java em ambientes enterprise — pipelines fiscais, integrações SAP, bancos Oracle e sistemas de conformidade tributária processando **milhares de NF-e por dia em produção**.
+
+Atualmente como **IT Application Analyst na Axalta Coating Systems**, sou o único desenvolvedor backend responsável por ~10 aplicações fiscais e operacionais: serviços Spring Boot, APIs REST integradas ao Thomson Reuters MasterSAF/OneSource, sistema legado Java adaptado para a Reforma Tributária Brasileira (IBS/CBS/IS) e pipelines ETL em Python.
+
+Além disso, sou **founder da [Synapse IT](https://github.com/seu-perfil)** — software house focada em desenvolvimento web moderno, automação de processos e soluções orientadas a resultado para negócios reais.
 
 ---
 
-## Selected Work
+## 🏢 Synapse IT
 
-**Internal XML Integration Tool for Fiscal API Workflows**
-Java application that replaced Burp Suite/Postman for fiscal document correction. Parses raw action payloads, renders them as a structured XML editor, and dispatches corrected documents to the MasterSAF API via authenticated POST.
-`Java` `Spring Boot` `XML/DOM` `REST API` `MasterSAF`
+<img align="right" width="120" src="https://img.shields.io/badge/Synapse_IT-Founder-6366f1?style=for-the-badge&logoColor=white" />
 
-**Brazil Tax Reform Compliance: Backend Implementation**
-Java backend logic for IBS, CBS, and IS compliance under Brazil's 2024 tax reform. Processes thousands of NF-e documents daily in a production environment with strict validation rules and Oracle DB pipelines.
-`Java` `Spring Boot` `Oracle DB` `PL/SQL` `NF-e`
+> *Construindo produtos digitais que resolvem problemas reais.*
 
-**SAP–Oracle Data Bridge**
-Bidirectional synchronization middleware keeping SAP ERP and Oracle systems consistent. Handles schema mismatches, conflict resolution, and financial data integrity for daily reconciliation and compliance reporting.
+Software house que fundei com foco em:
+- 🌐 Aplicações web modernas (Next.js, TypeScript, TailwindCSS)
+- ⚙️ Automação de processos e pipelines de dados
+- 🔗 Integrações entre sistemas legados e plataformas modernas
+- 🤖 Soluções orientadas a IA para operações de negócio
+
+---
+
+## 🛠️ Stack Técnica
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Banco de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Testes & Build
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Frontend (Synapse IT)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🧾 Reforma Tributária — Integração Backend IBS/CBS/IS
+Extensão de sistema legado NF-e em Java para suportar os novos tributos da Reforma Tributária Brasileira de 2024. Inclui validação XSD, marshalling/unmarshalling JAXB, integração SAP RFC e comunicação com SEFAZ — rodando em produção para milhares de documentos por dia.
+
+`Java` `Spring Boot` `SAP RFC` `XML/XSD/JAXB` `SEFAZ` `Oracle DB`
+
+---
+
+### 🛠️ Ferramenta Interna de Correção de Documentos Fiscais
+Aplicação desktop Java construída para substituir fluxos manuais com Postman/Burp Suite na correção de payloads de ação fiscal. Faz parse de XML bruto, renderiza como editor estruturado e despacha documentos corrigidos para a API MasterSAF via POST autenticado. Inclui autenticação via Windows Active Directory e restrições deliberadas de segurança na edição de payloads.
+
+`Java 21` `Spring Boot` `XML/DOM` `REST API` `MasterSAF` `Active Directory`
+
+---
+
+### 📦 API REST de Gerenciamento de Invoices Fiscais
+API REST para ciclo de vida completo de invoices fiscais: criação, consulta paginada, atualização de status e transições de entidade. Arquitetura em camadas (Controller/Service/Repository/DTOs), exception handler centralizado, testes automatizados com JUnit 5 e Mockito, pipeline de build/deploy com Maven, Docker, GitHub Actions e Kubernetes.
+
+`Java 17` `Spring Boot` `Spring Data JPA` `H2` `JUnit 5` `Mockito` `Docker` `GitHub Actions` `Kubernetes`
+
+---
+
+### 🔄 Bridge SAP–Oracle
+Middleware de sincronização bidirecional mantendo consistência entre SAP ERP e sistemas Oracle. Trata incompatibilidades de schema, resolução de conflitos e integridade de dados financeiros para reconciliação diária e relatórios de conformidade.
+
 `Java` `SAP RFC` `Oracle DB` `Python` `PL/SQL`
 
 ---
 
-## Engineering Principles
+## 📊 GitHub Stats
 
-- Correctness first. A system that works incorrectly under edge cases is broken.
-- Understand the constraints before writing code.
-- Integration boundaries are where complexity lives. Design them carefully.
-- Reliability is a feature, not a bonus.
-- Clear over clever, always.
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattHenriq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-## Current Focus
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattHenriq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-- Growing Synapse IT — web, automation, and AI solutions for real business problems
-- Advancing in system design and distributed architecture
-- Pursuing senior backend and enterprise integration roles
-- Open to remote opportunities with international teams
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattHenriq&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mattHenriq&style=flat&color=6366f1&label=profile+views" alt="profile views" />
-</p>
+## 🎯 Foco Atual
+
+- 📖 Lendo *Designing Data-Intensive Applications* — system design e arquitetura distribuída
+- ⚡ Aprofundando Spring Batch, processamento assíncrono e Kafka
+- 🏗️ Expandindo a Synapse IT — produtos web, automação e soluções com IA
+- 🌎 Buscando posições Backend Java Pleno/Sênior — aberto a remoto
+
+---
+
+## 🌐 Idiomas
+
+🇧🇷 Português — Nativo  
+🇺🇸 Inglês — Avançado (leitura técnica, documentação e comunicação)  
+🇫🇷 Francês — Básico / Em aprendizado
+
+---
+
+<div align="center">
+
+*São Paulo, Brazil · Disponível para oportunidades remotas*
+
+</div>
