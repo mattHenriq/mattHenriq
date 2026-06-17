@@ -17,11 +17,11 @@
 
 ## 👨‍💻 About
 
-Backend engineer with **3+ anos** de experiência em sistemas Java em ambientes enterprise — pipelines fiscais, integrações SAP, bancos Oracle e sistemas de conformidade tributária processando **milhares de NF-e por dia em produção**.
+Backend engineer com **3+ anos** de experiência em sistemas Java em ambientes enterprise, pipelines fiscais, integrações SAP, bancos Oracle e sistemas de conformidade tributária processando **milhares de NF-e por dia em produção**.
 
-Atualmente como **IT Application Analyst na Axalta Coating Systems**, sou o único desenvolvedor backend responsável por ~10 aplicações fiscais e operacionais: serviços Spring Boot, APIs REST integradas ao Thomson Reuters MasterSAF/OneSource, sistema legado Java adaptado para a Reforma Tributária Brasileira (IBS/CBS/IS) e pipelines ETL em Python.
+Atualmente como **Backend em uma compania Multinacional**, sou desenvolvedor backend Java responsável por ~10 aplicações fiscais e operacionais: serviços Spring Boot, APIs REST integradas ao Thomson Reuters MasterSAF/OneSource, sistema legado Java adaptado para a Reforma Tributária Brasileira (IBS/CBS/IS) e pipelines ETL em Python.
 
-Além disso, sou **founder da [Synapse IT](https://github.com/seu-perfil)** — software house focada em desenvolvimento web moderno, automação de processos e soluções orientadas a resultado para negócios reais.
+Além disso, sou **founder da [Synapse IT](https://www.synapseit.dev/)** — software house focada em desenvolvimento web moderno, automação de processos e soluções orientadas a resultado para negócios reais.
 
 ---
 
